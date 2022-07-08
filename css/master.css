@@ -72,6 +72,9 @@ main .card {
   align-items: center;
   flex-direction: column;
   cursor: pointer;
+}
+
+main .card .quote {
   text-align: center;
 }
 
