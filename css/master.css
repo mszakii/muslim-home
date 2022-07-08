@@ -43,7 +43,7 @@ header .logo img {
 main {
   width: 90vw;
   margin: auto;
-  height: calc(100vh - 135px);
+  min-height: calc(100vh - 135px);
   padding: 20px 0;
 }
 
@@ -52,6 +52,8 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
   }
   main .card {
     margin: 0 10px;
