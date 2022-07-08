@@ -6,3 +6,7 @@ quran.onclick = function () {
 azkar.onclick = function () {
   location.assign("content/azkar/index.html");
 };
+
+eid.onclick = function () {
+  location.assign("content/eid/index.html");
+};

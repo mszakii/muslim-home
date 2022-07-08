@@ -20,6 +20,7 @@ body {
   background: url(https://mszakii.github.io/muslim-home/asset/background.jpeg);
   direction: rtl;
   font-size: 20px;
+  user-select: none;
 }
 
 header, footer {
@@ -71,6 +72,7 @@ main .card {
   align-items: center;
   flex-direction: column;
   cursor: pointer;
+  text-align: center;
 }
 
 .play {
