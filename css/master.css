@@ -86,6 +86,8 @@ main .card .quote {
 
 main .card .label {
   font-weight: bold;
+  width: 100%;
+  text-align: center;
 }
 
 footer {
