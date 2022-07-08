@@ -14,3 +14,7 @@ sura2.onclick = function () {
 sura3.onclick = function () {
   location.assign("sura3/index.html");
 };
+
+sura4.onclick = function () {
+  location.assign("sura4/index.html");
+};
